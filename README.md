@@ -1,2 +1,2 @@
 # palmerPenguinProject
-Collaborative project from my Python and Computing (PIC 16A) course
+Collaborative project from the PIC 16A Python and Computing course taken at UCLA.
